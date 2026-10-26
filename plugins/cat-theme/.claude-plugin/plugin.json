@@ -1,0 +1,6 @@
+{
+  "name": "cat-theme",
+  "version": "0.1.0",
+  "author": { "name": "Jbs1214" },
+  "description": "세션마다 고양이 테마를 골라 시작 배너를 띄우고 Claude 답변을 '~냥' 반말로 바꾸는 SessionStart 훅"
+}

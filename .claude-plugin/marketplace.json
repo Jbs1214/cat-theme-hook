@@ -1,0 +1,12 @@
+{
+  "name": "cat-theme-hook",
+  "owner": { "name": "Jbs1214" },
+  "metadata": { "description": "세션마다 고양이 테마를 골라 배너와 '~냥' 말투를 입히는 Claude Code 훅" },
+  "plugins": [
+    {
+      "name": "cat-theme",
+      "source": "./plugins/cat-theme",
+      "description": "SessionStart 훅: 무작위 고양이 테마 배너 + 응원 한마디 + '~냥' 반말 말투"
+    }
+  ]
+}
